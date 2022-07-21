@@ -59,3 +59,5 @@ they fit your needs. They are being used in productive environments:
   an Import Source dealing with your PuppetDB
 * [vSphere](https://github.com/Icinga/icingaweb2-module-vsphere): VMware vSphere
   Import Source for Virtual Machines and Host Systems
+* [Netbox](https://github.com/sol1/icingaweb2-module-netbox): Netbox DCIM as a Import
+  Source for Devices, VMs, Sites, Regions, IP Ranges and more.
